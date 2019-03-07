@@ -1,0 +1,16 @@
+{
+  "name": "json-layout-framework",
+  "version": "0.0.1",
+  "description": "Framework for creating html layouts using json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "JSON",
+    "layout",
+    "framework"
+  ],
+  "author": "kmturley",
+  "license": "ISC"
+}

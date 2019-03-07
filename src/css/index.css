@@ -1,0 +1,21 @@
+html {
+  height: 100%;
+}
+
+body {
+  height: 100%;
+  margin: 0;
+}
+
+.frame {
+  background-color: #eee;
+  padding-bottom: 56.25%;
+  position: relative;
+  width: 100%;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.frame > * {
+  position: absolute;
+}
